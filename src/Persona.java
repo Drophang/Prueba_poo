@@ -3,4 +3,7 @@ public class Persona {
     public Persona (String Nombre){
         this.Nombre = Nombre;
     }
+    public void mostrar(){
+        
+    }
 }
